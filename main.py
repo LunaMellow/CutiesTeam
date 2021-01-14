@@ -2,7 +2,3 @@
 # So far we do not have any plans or ongoing projects,
 # so if you have a good concept idea, put it in "ideas.txt"
 
-import os
-
-os.system('cmd /c "pip3 install pyHook"')
-
