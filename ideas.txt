@@ -1,0 +1,15 @@
+Put your project ideas here and lets see if we can do something cool.
+We can also create additional project files in case anybody wants
+to add a seperate project for something big or fancy.
+
+Ideas:
+- *Chatting application* over terminal. Sort of command line chatting.
+  could also be encrypted if needed. Encryption and text hashing is
+  pretty darn cool.
+
+- 
+
+
+
+Comments:
+nerd. - Forssan
